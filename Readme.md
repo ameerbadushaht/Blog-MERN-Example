@@ -1,20 +1,20 @@
-##install dependencies
-##install Node.js
+## install dependencies
+## install Node.js
 
 
-#1
+# 1
 cd Desktop
 cd mern-blog
 npx create-react-app client  #react installation
 
-#index.html -> entry point of Application
-#manifest.json -> mobile phone uses
+# index.html -> entry point of Application
+# manifest.json -> mobile phone uses
 
-#src/App.js -> Root App component
+# src/App.js -> Root App component
 
 
 
-#Tailwind CSS 
+# Tailwind CSS 
 {
 in site 
 framework guide
@@ -23,7 +23,7 @@ framework guide
  npm install -D tailwindcss postcss autoprefixer
 npx tailwindcss init -p
 
-#copy below and in tailwind.config.js file clear content and paste it
+# copy below and in tailwind.config.js file clear content and paste it
 
                     /** @type {import('tailwindcss').Config} */
             module.exports = {
@@ -50,7 +50,7 @@ npm install react-router-dom --save
 navigate btw pages ==> npm install --save react-router-dom
 
 
-#backend dependencies terminal should be outside of client folder
+# backend dependencies terminal should be outside of client folder
 npm init -y
 npm install express
 npm install -D concurrently nodemon
@@ -91,7 +91,7 @@ select POST and add localhost link then send
 in Body - raw select JSON
 we can add json object like name...
 
-#////////////////// ------------database creation-----\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+# ////////////////// ------------database creation-----\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 download  mongodb.exe  and install
 
