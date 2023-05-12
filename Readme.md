@@ -15,36 +15,36 @@
 
 
 # Tailwind CSS 
-{
-in site 
-framework guide
- in terminal
- cd client
- npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
+
+	in site 
+	framework guide
+	in terminal
+	cd client
+	npm install -D tailwindcss postcss autoprefixer
+	npx tailwindcss init -p
 
 # copy below and in tailwind.config.js file clear content and paste it
 
-                    /** @type {import('tailwindcss').Config} */
-            module.exports = {
-            content: [
-                "./src/**/*.{js,jsx,ts,tsx}",
-            ],
-            theme: {
-                extend: {},
-            },
-            plugins: [],
-            }
+
+		    /** @type {import('tailwindcss').Config} */
+		module.exports = {
+		content: [
+		"./src/**/*.{js,jsx,ts,tsx}",
+		],
+		theme: {
+		extend: {},
+		},
+		plugins: [],
+		}
 
 
 # copy below and in src/index.css file replace with full content
 
-            @tailwind base;
-            @tailwind components;
-            @tailwind utilities;
-}
+	@tailwind base;
+	@tailwind components;
+	@tailwind utilities;
 
-#
+
 npm install react-router-dom --save
 
 navigate btw pages ==> npm install --save react-router-dom
@@ -69,8 +69,6 @@ in package.json
 create server.js
 type=>
 
-
-
 const express = require('express'); // Express web server framework
 const app = express(); //express app created
 const port = 8080; //set port
@@ -84,12 +82,12 @@ app.get('/', (req, res) => res.send('Hello World!'));
 app.listen(port, () => console.log('Example app listening on port ${port}'));
 
 
-#download and install Postman
-open postman.exe
-select POST and add localhost link then send
+# Download and install Postman
+	open postman.exe
+	select POST and add localhost link then send
 
-in Body - raw select JSON
-we can add json object like name...
+	in Body - raw select JSON
+	we can add json object like name...
 
 # ////////////////// ------------database creation-----\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
