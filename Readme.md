@@ -2,10 +2,10 @@
 ## install Node.js
 
 
-# 1
-cd Desktop
-cd mern-blog
-npx create-react-app client  #react installation
+
+# cd Desktop
+# cd mern-blog
+# npx create-react-app client  #react installation
 
 # index.html -> entry point of Application
 # manifest.json -> mobile phone uses
