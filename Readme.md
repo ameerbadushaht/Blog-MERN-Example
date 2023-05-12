@@ -1,5 +1,5 @@
 ## Install dependencies
-## Install [Node.js] (https://nodejs.org/en/download).
+## Install [ Node.js ] (https://nodejs.org/en/download).
 
 ### cd Desktop
 ### cd mern-blog
