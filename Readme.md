@@ -68,7 +68,7 @@
 	const port = 8080; //set port
 
 
-## //just for testing purposes
+## just for testing purposes
 
 	app.get('/', (req, res) => res.send('Hello World!'));
 
@@ -83,7 +83,7 @@
 	in Body - raw select JSON
 	we can add json object like name...
 
-## ////////////////// ------------database creation-----\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+## Database creation
 
 	Download  mongodb.exe and install.
 	 Install mongo shell zip file.
@@ -103,7 +103,6 @@
 	Goto mongosh\bin folder open mongosh.exe 
 	Now it opens mongo shell.
 
-==============================================================
 ## if still not open
 	download mongodb zip file
 
@@ -119,8 +118,6 @@
 	open new terminal in bin folder again enter .\mogod 
 	it enters into shell 
 
-====================================================================
-
 ## Download and install mongo compass
 
 	create new connection by clicking connect  
@@ -135,7 +132,7 @@
 
 
 
-## =============  Adding MongoDB to Express ===========================
+## Adding MongoDB to Express 
 
 	Install mongodb in our project 
 
@@ -148,10 +145,8 @@
 	select GET and send http://localhost:8080/api/articles/learn-node 
 
 
-=============================================
 ### Install fetch 
 	npm install --save whatwg-fetch
 
-==============================
 ## Run application 
 	npm run dev	
