@@ -5,11 +5,6 @@
 ### cd mern-blog
 ### npx create-react-app client  <!-- react installation -->
 
-### index.html <!-- entry point of Application -->
-### manifest.json <!-- mobile phone uses -->
-
-### src/App.js <!-- Root App component -->
-
 # Tailwind CSS 
 
 	in site framework guide terminal
