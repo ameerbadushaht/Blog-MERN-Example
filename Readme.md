@@ -1,5 +1,5 @@
 ## Install dependencies
- Install [Node.js (url)].
+ Install [ [Node.js] (url).
 
 ### cd Desktop
 ### cd mern-blog
