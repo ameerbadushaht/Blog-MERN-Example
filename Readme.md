@@ -3,12 +3,12 @@
 
 ### cd Desktop
 ### cd mern-blog
-### npx create-react-app client  #react installation
+### npx create-react-app client  <!-- react installation -->
 
-### index.html -> entry point of Application
-### manifest.json -> mobile phone uses
+### index.html <!-- entry point of Application -->
+### manifest.json <!-- mobile phone uses -->
 
-### src/App.js -> Root App component
+### src/App.js <!-- Root App component -->
 
 # Tailwind CSS 
 
