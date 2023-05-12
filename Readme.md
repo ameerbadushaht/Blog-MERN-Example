@@ -1,20 +1,18 @@
-## install dependencies
-## install Node.js
+## Install dependencies
+## Install [Node.js] (https://nodejs.org/en/download).
 
-## cd Desktop
-## cd mern-blog
-## npx create-react-app client  #react installation
+### cd Desktop
+### cd mern-blog
+### npx create-react-app client  #react installation
 
-## index.html -> entry point of Application
-## manifest.json -> mobile phone uses
+### index.html -> entry point of Application
+### manifest.json -> mobile phone uses
 
-## src/App.js -> Root App component
+### src/App.js -> Root App component
 
 # Tailwind CSS 
 
-	in site 
-	framework guide
-	in terminal
+	in site framework guide terminal
 	cd client
 	npm install -D tailwindcss postcss autoprefixer
 	npx tailwindcss init -p
